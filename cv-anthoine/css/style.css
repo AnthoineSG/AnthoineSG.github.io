@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "regular";
+    src: url(../css/static/Rubik-Regular.ttf);
+}
+
+
+
+html{
+    font-size: 1rem;
+    font-family: "regular";
+}
+
+
+
+
+
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.container-a{
+    width: 100%;
+    height: 100vh;
+    background: url(../image/montagne.jpg) no-repeat center/cover;
+}
+.container-b{
+    width: 100%;
+    height: 100vh;
+    background: url(../image/devweb.png) no-repeat center/cover;
+
+}
+
+
+
+
+
+
