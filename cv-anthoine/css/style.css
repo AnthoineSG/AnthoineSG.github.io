@@ -19,6 +19,7 @@ html{
 .container{
     display: flex;
     flex-direction: column;
+    font-size: 10rem;
 }
 .container-a{
     width: 100%;
